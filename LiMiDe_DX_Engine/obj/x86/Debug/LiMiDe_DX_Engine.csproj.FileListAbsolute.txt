@@ -1,0 +1,147 @@
+E:\C# projects\LiMiDe_DX_Engine\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.exe.config
+E:\C# projects\LiMiDe_DX_Engine\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.exe
+E:\C# projects\LiMiDe_DX_Engine\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.pdb
+E:\C# projects\LiMiDe_DX_Engine\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.csprojResolveAssemblyReference.cache
+E:\C# projects\LiMiDe_DX_Engine\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.Form1.resources
+E:\C# projects\LiMiDe_DX_Engine\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.Properties.Resources.resources
+E:\C# projects\LiMiDe_DX_Engine\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.csproj.GenerateResource.Cache
+E:\C# projects\LiMiDe_DX_Engine\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.exe
+E:\C# projects\LiMiDe_DX_Engine\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.pdb
+D:\Часть 1\DirectX_CSharp\LiMiDe_DX_Engine\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.exe.config
+D:\Часть 1\DirectX_CSharp\LiMiDe_DX_Engine\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.exe
+D:\Часть 1\DirectX_CSharp\LiMiDe_DX_Engine\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.pdb
+E:\LiMiDe_MAIN\cirbotcon\LiMiDe_DX_Engine\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.exe.config
+E:\LiMiDe_MAIN\cirbotcon\LiMiDe_DX_Engine\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.exe
+E:\LiMiDe_MAIN\cirbotcon\LiMiDe_DX_Engine\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.pdb
+E:\LiMiDe_MAIN\cirbotcon\LiMiDe_DX_Engine\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.exe
+E:\LiMiDe_MAIN\cirbotcon\LiMiDe_DX_Engine\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.pdb
+E:\LiMiDe_MAIN\cirbotcon\LiMiDe_DX_Engine\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.Form1.resources
+E:\LiMiDe_MAIN\cirbotcon\LiMiDe_DX_Engine\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.Properties.Resources.resources
+E:\LiMiDe_MAIN\cirbotcon\LiMiDe_DX_Engine\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.csproj.GenerateResource.Cache
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_V1\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.exe.config
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_V1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.exe
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_V1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.pdb
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_V1\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.exe
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_V1\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.pdb
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_V1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.Form1.resources
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_V1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.Properties.Resources.resources
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_V1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.csproj.GenerateResource.Cache
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_V1.2\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.exe.config
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_V1.2\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.exe
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_V1.2\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.pdb
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_V1.2\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.exe
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_V1.2\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.pdb
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_V1.2\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.csprojResolveAssemblyReference.cache
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_V1.2\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.Form1.resources
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_V1.2\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.Properties.Resources.resources
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_V1.2\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.csproj.GenerateResource.Cache
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_V1.3\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.exe.config
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_V1.3\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.exe
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_V1.3\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.pdb
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_V1.3\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.exe
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_V1.3\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.pdb
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_V1.3\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.csprojResolveAssemblyReference.cache
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_V1.3\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.Form1.resources
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_V1.3\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.Properties.Resources.resources
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_V1.3\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.csproj.GenerateResource.Cache
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_V1.4\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.exe.config
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_V1.4\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.exe
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_V1.4\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.pdb
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_V1.4\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.exe
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_V1.4\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.pdb
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_V1.4\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.csprojResolveAssemblyReference.cache
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_V1.4\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.Form1.resources
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_V1.4\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.Properties.Resources.resources
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_V1.4\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.csproj.GenerateResource.Cache
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_VN_branch_V2.1\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.exe.config
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_VN_branch_V2.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.exe
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_VN_branch_V2.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.pdb
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_VN_branch_V2.1\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.exe
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_VN_branch_V2.1\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.pdb
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_VN_branch_V2.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.Form1.resources
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_VN_branch_V2.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.Properties.Resources.resources
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_VN_branch_V2.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.csproj.GenerateResource.Cache
+E:\LiMiDe_MAIN\cirbotcon\EDEL_Engine_VN_branch_V2.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.csprojResolveAssemblyReference.cache
+E:\LiMiDe_MAIN\EDEL_engine_LiMiDe_DX11\EDEL_Engine_VN_branch_V2.1\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.exe.config
+E:\LiMiDe_MAIN\EDEL_engine_LiMiDe_DX11\EDEL_Engine_VN_branch_V2.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.exe
+E:\LiMiDe_MAIN\EDEL_engine_LiMiDe_DX11\EDEL_Engine_VN_branch_V2.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.pdb
+E:\LiMiDe_MAIN\EDEL_engine_LiMiDe_DX11\EDEL_Engine_VN_branch_V2.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.csprojResolveAssemblyReference.cache
+E:\LiMiDe_MAIN\EDEL_engine_LiMiDe_DX11\EDEL_Engine_VN_branch_V2.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.Form1.resources
+E:\LiMiDe_MAIN\EDEL_engine_LiMiDe_DX11\EDEL_Engine_VN_branch_V2.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.Properties.Resources.resources
+E:\LiMiDe_MAIN\EDEL_engine_LiMiDe_DX11\EDEL_Engine_VN_branch_V2.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.csproj.GenerateResource.Cache
+E:\LiMiDe_MAIN\EDEL_engine_LiMiDe_DX11\EDEL_Engine_VN_branch_V2.1\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.exe
+E:\LiMiDe_MAIN\EDEL_engine_LiMiDe_DX11\EDEL_Engine_VN_branch_V2.1\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.pdb
+E:\LiMiDe_MAIN\EDEL_engine_LiMiDe_DX11\EDEL_AVNB_3.1\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.exe.config
+E:\LiMiDe_MAIN\EDEL_engine_LiMiDe_DX11\EDEL_AVNB_3.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.exe
+E:\LiMiDe_MAIN\EDEL_engine_LiMiDe_DX11\EDEL_AVNB_3.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.pdb
+E:\LiMiDe_MAIN\EDEL_engine_LiMiDe_DX11\EDEL_AVNB_3.1\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.exe
+E:\LiMiDe_MAIN\EDEL_engine_LiMiDe_DX11\EDEL_AVNB_3.1\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.pdb
+E:\LiMiDe_MAIN\EDEL_engine_LiMiDe_DX11\EDEL_AVNB_3.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.csprojResolveAssemblyReference.cache
+E:\LiMiDe_MAIN\EDEL_engine_LiMiDe_DX11\EDEL_AVNB_3.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.Form1.resources
+E:\LiMiDe_MAIN\EDEL_engine_LiMiDe_DX11\EDEL_AVNB_3.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.Properties.Resources.resources
+E:\LiMiDe_MAIN\EDEL_engine_LiMiDe_DX11\EDEL_AVNB_3.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.csproj.GenerateResource.Cache
+E:\LiMiDe_MAIN\EDEL_engine_LiMiDe_DX11\EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.exe.config
+E:\LiMiDe_MAIN\EDEL_engine_LiMiDe_DX11\EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.exe
+E:\LiMiDe_MAIN\EDEL_engine_LiMiDe_DX11\EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.pdb
+E:\LiMiDe_MAIN\EDEL_engine_LiMiDe_DX11\EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.exe
+E:\LiMiDe_MAIN\EDEL_engine_LiMiDe_DX11\EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.pdb
+E:\LiMiDe_MAIN\EDEL_engine_LiMiDe_DX11\EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.csprojResolveAssemblyReference.cache
+E:\LiMiDe_MAIN\EDEL_engine_LiMiDe_DX11\EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.Form1.resources
+E:\LiMiDe_MAIN\EDEL_engine_LiMiDe_DX11\EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.Properties.Resources.resources
+E:\LiMiDe_MAIN\EDEL_engine_LiMiDe_DX11\EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.csproj.GenerateResource.Cache
+E:\LiMiDe_MAIN\EDEL_Games\EDEL_AVNB3D_4.1_CLEAR\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.exe.config
+E:\LiMiDe_MAIN\EDEL_Games\EDEL_AVNB3D_4.1_CLEAR\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.exe
+E:\LiMiDe_MAIN\EDEL_Games\EDEL_AVNB3D_4.1_CLEAR\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.pdb
+E:\LiMiDe_MAIN\EDEL_Games\EDEL_AVNB3D_4.1_CLEAR\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.exe
+E:\LiMiDe_MAIN\EDEL_Games\EDEL_AVNB3D_4.1_CLEAR\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.pdb
+E:\LiMiDe_MAIN\EDEL_Games\EDEL_AVNB3D_4.1_CLEAR\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.csprojResolveAssemblyReference.cache
+E:\LiMiDe_MAIN\EDEL_Games\EDEL_AVNB3D_4.1_CLEAR\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.Form1.resources
+E:\LiMiDe_MAIN\EDEL_Games\EDEL_AVNB3D_4.1_CLEAR\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.Properties.Resources.resources
+E:\LiMiDe_MAIN\EDEL_Games\EDEL_AVNB3D_4.1_CLEAR\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.csproj.GenerateResource.Cache
+E:\LiMiDe_MAIN\EDEL_Games\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.exe.config
+E:\LiMiDe_MAIN\EDEL_Games\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.exe
+E:\LiMiDe_MAIN\EDEL_Games\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.pdb
+E:\LiMiDe_MAIN\EDEL_Games\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.exe
+E:\LiMiDe_MAIN\EDEL_Games\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.pdb
+E:\LiMiDe_MAIN\EDEL_Games\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.csprojResolveAssemblyReference.cache
+E:\LiMiDe_MAIN\EDEL_Games\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.Form1.resources
+E:\LiMiDe_MAIN\EDEL_Games\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.Properties.Resources.resources
+E:\LiMiDe_MAIN\EDEL_Games\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.csproj.GenerateResource.Cache
+F:\LiMiDe\LiMiDe games\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.exe.config
+F:\LiMiDe\LiMiDe games\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.exe
+F:\LiMiDe\LiMiDe games\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.pdb
+F:\LiMiDe\LiMiDe games\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.exe
+F:\LiMiDe\LiMiDe games\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.pdb
+F:\LiMiDe\LiMiDe games\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.csprojResolveAssemblyReference.cache
+F:\LiMiDe\LiMiDe games\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.Form1.resources
+F:\LiMiDe\LiMiDe games\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.Properties.Resources.resources
+F:\LiMiDe\LiMiDe games\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.csproj.GenerateResource.Cache
+C:\Users\Kulagin\Desktop\Gravipath\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.exe.config
+C:\Users\Kulagin\Desktop\Gravipath\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.exe
+C:\Users\Kulagin\Desktop\Gravipath\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.pdb
+C:\Users\Kulagin\Desktop\Gravipath\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.exe
+C:\Users\Kulagin\Desktop\Gravipath\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.pdb
+C:\Users\Kulagin\Desktop\Gravipath\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.Form1.resources
+C:\Users\Kulagin\Desktop\Gravipath\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.Properties.Resources.resources
+C:\Users\Kulagin\Desktop\Gravipath\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.csproj.GenerateResource.Cache
+C:\Users\Kulagin\Desktop\Gravipath\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.csprojResolveAssemblyReference.cache
+C:\Users\Kulagin\Desktop\Проекты программирование\Gravipath\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.exe.config
+C:\Users\Kulagin\Desktop\Проекты программирование\Gravipath\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.exe
+C:\Users\Kulagin\Desktop\Проекты программирование\Gravipath\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.pdb
+Z:\Projects\Gravipath\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.exe.config
+Z:\Projects\Gravipath\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.exe
+Z:\Projects\Gravipath\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.pdb
+Z:\Projects\Gravipath\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.exe
+Z:\Projects\Gravipath\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\bin\Debug\LiMiDe_DX_Engine.pdb
+Z:\Projects\Gravipath\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+Z:\Projects\Gravipath\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\bin\Debug\Microsoft.DirectX.Direct3D.dll
+Z:\Projects\Gravipath\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+Z:\Projects\Gravipath\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\bin\Debug\Microsoft.DirectX.dll
+Z:\Projects\Gravipath\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\bin\Debug\Microsoft.DirectX.xml
+Z:\Projects\Gravipath\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+Z:\Projects\Gravipath\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\bin\Debug\Microsoft.DirectX.Direct3D.xml
+Z:\Projects\Gravipath\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+Z:\Projects\Gravipath\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.csprojResolveAssemblyReference.cache
+Z:\Projects\Gravipath\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.Form1.resources
+Z:\Projects\Gravipath\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.Properties.Resources.resources
+Z:\Projects\Gravipath\InfinityJumping_EDEL_AVNB3D_4.1\LiMiDe_DX_Engine\obj\x86\Debug\LiMiDe_DX_Engine.csproj.GenerateResource.Cache

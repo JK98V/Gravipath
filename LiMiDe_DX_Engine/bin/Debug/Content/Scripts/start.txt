@@ -1,0 +1,5 @@
+Math:Calc["n", _GameTime, *, 10];
+Debug:Write[V["n"]" "_GameTime];
+System:Delay[200];
+System:NextScript["start"];
+System:Stop[];
